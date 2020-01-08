@@ -1,0 +1,1 @@
+This repository contains material for COMP240 "Computer Applications" taught at Monmouth College.  Both LaTeX source files and compiled pdfs are available.  The official course page can be found at [https://jlmayfield.github.io/teaching/COMP240/](https://jlmayfield.github.io/teaching/COMP240/)
