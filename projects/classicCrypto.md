@@ -4,7 +4,9 @@ title: COMP240 - Classic Cryptography at the CLI
 permalink: /teaching/COMP240/projects/classicCrypto
 ---
 
-## The Goal
+For this project you'll be creating a &ast;nix style command line tool in C for performing some basic tasks from classic, pre-computer era cryptography.
+
+## The What
 
 Create a &ast;nix CLI program for doing classic crptographic functions
 * monoalphabetic substitution key generation
@@ -18,6 +20,6 @@ Create a &ast;nix CLI program for doing classic crptographic functions
 
 Should be scriptable (multiple encrypt/decrypts for a given key or system of keys) but offer some interactive UI elements (key generation/management for sure). Should adhere to argument [standards](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap12.html) and [also](https://www.gnu.org/software/libc/manual/html_node/Getopt-Long-Options.html).
 
-## The Tools
+## The How
 
 C + getopt_long function. Secure C programming practices. Clang static analysis.
